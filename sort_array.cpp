@@ -8,7 +8,7 @@ int main()
   sort(arrays, size);
   for (int item : arrays)
   {
-    std::cout << item << " ";
+    std::cout << item << "-";
   }
   return 0;
 }
